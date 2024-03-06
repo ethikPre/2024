@@ -1,0 +1,15 @@
+.wrapper{
+    overflow: hidden;
+    height: 100vh;
+}
+
+.sliderBox{
+    transition: ease all .2s;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    width: fit-content;
+    height: 100vh;
+    min-width: 100%;
+    right: 0vw;
+}
